@@ -30,7 +30,7 @@ valor_final = valor_compra - valor_desconto
 3. Abra o terminal (ou prompt de comando).
 4. Navegue até a pasta onde o arquivo se encontra e execute o seguinte comando:
    ```bash
-   python app_desconto.py
+   python app_descontos.py
    ```
    *(Nota: Se o seu arquivo tiver outro nome, substitua `app_descontos.py` pelo nome correto do arquivo salvo).*
 5. Digite o valor da sua compra quando solicitado e veja o desconto acontecer! 🎉
